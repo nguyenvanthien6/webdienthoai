@@ -1,0 +1,24 @@
+F:\PKT\PKT Website\PKT\bin\PKT.dll
+F:\PKT\PKT Website\PKT\bin\PKT.pdb
+F:\PKT\PKT Website\PKT\obj\Debug\ResolveAssemblyReference.cache
+F:\PKT\PKT Website\PKT\obj\Debug\PKT.dll
+F:\PKT\PKT Website\PKT\obj\Debug\PKT.pdb
+F:\5103VIP\Project\PKT Final\PKT Website\PKT\bin\PKT.dll
+F:\5103VIP\Project\PKT Final\PKT Website\PKT\bin\PKT.pdb
+F:\5103VIP\Project\PKT Final\PKT Website\PKT\obj\Debug\ResolveAssemblyReference.cache
+F:\5103VIP\Project\PKT Final\PKT Website\PKT\obj\Debug\PKT.dll
+F:\5103VIP\Project\PKT Final\PKT Website\PKT\obj\Debug\PKT.pdb
+D:\USB năm 3 học kỳ 1 copy ngay 18 thang 5 nam 2020\Phát triển phần mềm và ứng dụng thông minh\Đồ án\megacode_pktteam-project_1\www.sharecode.org - PKTTeam Project\PKTTeam Project\PKT Website\PKT\bin\PKT.dll
+D:\USB năm 3 học kỳ 1 copy ngay 18 thang 5 nam 2020\Phát triển phần mềm và ứng dụng thông minh\Đồ án\megacode_pktteam-project_1\www.sharecode.org - PKTTeam Project\PKTTeam Project\PKT Website\PKT\bin\PKT.pdb
+D:\USB năm 3 học kỳ 1 copy ngay 18 thang 5 nam 2020\Phát triển phần mềm và ứng dụng thông minh\Đồ án\megacode_pktteam-project_1\www.sharecode.org - PKTTeam Project\PKTTeam Project\PKT Website\PKT\obj\Debug\PKT Website.csprojResolveAssemblyReference.cache
+D:\USB năm 3 học kỳ 1 copy ngay 18 thang 5 nam 2020\Phát triển phần mềm và ứng dụng thông minh\Đồ án\megacode_pktteam-project_1\www.sharecode.org - PKTTeam Project\PKTTeam Project\PKT Website\PKT\obj\Debug\PKT.dll
+D:\USB năm 3 học kỳ 1 copy ngay 18 thang 5 nam 2020\Phát triển phần mềm và ứng dụng thông minh\Đồ án\megacode_pktteam-project_1\www.sharecode.org - PKTTeam Project\PKTTeam Project\PKT Website\PKT\obj\Debug\PKT.pdb
+D:\USB năm 3 học kỳ 1 copy ngay 18 thang 5 nam 2020\Phát triển phần mềm và ứng dụng thông minh\Đồ án\megacode_pktteam-project_1\www.sharecode.org - PKTTeam Project\Thien\PKT Website\PKT\bin\PKT.dll
+D:\USB năm 3 học kỳ 1 copy ngay 18 thang 5 nam 2020\Phát triển phần mềm và ứng dụng thông minh\Đồ án\megacode_pktteam-project_1\www.sharecode.org - PKTTeam Project\Thien\PKT Website\PKT\bin\PKT.pdb
+D:\USB năm 3 học kỳ 1 copy ngay 18 thang 5 nam 2020\Phát triển phần mềm và ứng dụng thông minh\Đồ án\megacode_pktteam-project_1\www.sharecode.org - PKTTeam Project\Thien\PKT Website\PKT\obj\Debug\PKT.dll
+D:\USB năm 3 học kỳ 1 copy ngay 18 thang 5 nam 2020\Phát triển phần mềm và ứng dụng thông minh\Đồ án\megacode_pktteam-project_1\www.sharecode.org - PKTTeam Project\Thien\PKT Website\PKT\obj\Debug\PKT.pdb
+D:\4\PKT Website\PKT\bin\PKT.dll
+D:\4\PKT Website\PKT\bin\PKT.pdb
+D:\4\PKT Website\PKT\obj\Debug\PKT Website.csprojResolveAssemblyReference.cache
+D:\4\PKT Website\PKT\obj\Debug\PKT.dll
+D:\4\PKT Website\PKT\obj\Debug\PKT.pdb
